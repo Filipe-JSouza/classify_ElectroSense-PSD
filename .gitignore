@@ -1,0 +1,7 @@
+Plaintext
+# Ignorar a pasta onde estão os dados do ElectroSense ou resultados gigantes
+/data
+
+spectrum_bands.tar.gz
+
+/results
